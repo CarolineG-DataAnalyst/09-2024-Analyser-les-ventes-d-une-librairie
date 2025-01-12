@@ -1,4 +1,5 @@
 
+![Capture d’écran 2025-01-12 à 15 23 36](https://github.com/user-attachments/assets/fefc8bc1-98e5-4ec9-a857-a1ab8927b9d6)
 
 # Analyser-les-ventes-d-une-librairie
 
